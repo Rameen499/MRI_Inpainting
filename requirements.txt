@@ -6,7 +6,7 @@ tensorboard==2.5.0
 Omegaconf
 Pillow
 scikit-learn
-matplotlib==3.3.1
+matplotlib>=3.8.4
 setproctitle==1.1.10
 SimpleITK
 albumentations==0.5.1
