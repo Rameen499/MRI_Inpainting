@@ -1,1 +1,1 @@
-training and code of pseudo 3d
+training and code of ddpm 3d_mem_eff
